@@ -1,3 +1,6 @@
 git init
 git add .
-git commit -m "Initial commit of guitar telegram bot"
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/<mojtabaaeshghi>/guitar-telegram-bot.git
+git push -u origin main
